@@ -1,0 +1,153 @@
+body{
+    .donegal-one-regular {
+        font-family: "Donegal One", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      .ramabhadra-regular {
+        font-family: "Ramabhadra", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      .oxygen-mono-regular {
+        font-family: "Oxygen Mono", monospace;
+        font-weight: 400;
+        font-style: normal;
+      }
+                  
+}
+h1{
+    font-size: 50px;
+    
+}
+.orange-color{
+    color: orange;
+}
+
+section{
+    display: flex;
+}
+.First-part{
+    width: 50%;
+    padding-left: 5%;
+}
+.First-part img{
+    width: 80%;
+    padding-left: 10%;
+    padding-bottom: 10%;
+    padding-top: 0%;
+    border-image-width: 5px;
+    
+}
+
+.link-button{
+    text-decoration: none;
+    background-color:rgb(255, 78, 78);
+    color: white;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+.Mission-one{
+    
+    width: 50%;
+    border-radius: 20px;
+    background-color: rgb(212, 255, 253);
+    padding: 20px;
+    margin: 50px;
+
+
+    
+}
+.mis{
+width: 50%;
+}
+
+.Vission-two{
+    width: 50%;
+    border-radius: 20px;
+    background-color: rgb(255, 165, 165);
+    padding: 20px;
+    margin: 50px;
+}
+.Goals-three{
+    width: 50%;
+    border-radius: 20px;
+   background-color: mistyrose;
+   padding: 20px;
+    margin: 50px;
+
+}
+span{
+    color: orange;
+}
+
+h5{
+    font-weight: 100;
+    padding-top: 100px;
+}
+
+#Red-line{
+    border-left: solid rgb(255, 77, 77);
+    padding: 5px;
+    margin: 50px;
+    margin-left: 5px;
+}
+
+.Second-part{
+   width: 50%;
+   padding: 20px;
+   margin: 50px;
+}
+
+.Second-part img{
+    width: 80%;
+    padding: 20px;
+    margin: 50px;
+}
+
+.Left-image{
+    background-image: url(shape-7.png) ;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: left;
+}
+
+.Third-part{
+    width: 50%;
+    padding: 20px;
+    margin: 50px;
+}
+.Third-part image{
+    width: 80%;
+    padding: 20px;
+    margin: 50px;
+    
+}
+
+.Right-image{
+    background-image: url(shape-1.png) ;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: right bottom;
+}
+
+.Bottom-side{
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin: 25px;
+    padding: 25px;
+}
+
+
+
+#Vission-image{
+    background-image: url(Vission.png);
+    background-position: 50%;
+
+}
+
+#Goals-image{
+    background-image: url(Goals.png);
+    background-position: 50%;
+}
